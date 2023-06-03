@@ -24,7 +24,7 @@ let intersect = new THREE.Vector3(10, 3, 7);
 let intersectTarget = intersect.clone();
 
 // String to show
-let string = "Gaze";
+let string = "Geeage";
 
 // Coordinates data per 2D canvas and 3D scene
 let textureCoordinates = [];

@@ -20,7 +20,7 @@ let scene, camera, renderer, textCanvas, textCtx, particleGeometry, dummy, clock
 let flowerInstancedMesh, leafInstancedMesh, flowerMaterial, leafMaterial;
 
 // String to show
-let string = 'Blossom';
+let string = 'Geeage';
 
 // Coordinates data per 2D canvas and 3D scene
 let textureCoordinates = [];
